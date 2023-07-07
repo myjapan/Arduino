@@ -1,0 +1,6 @@
+{
+    "arduino_folder": "/opt/arduino", 
+    "full_compilation": true, 
+    "platform": 1, 
+    "platform_name": "Arduino AVR Boards"
+}
